@@ -1,7 +1,7 @@
 <img src="https://github.com/theophildio/theophildio/blob/main/Theophil-Dio-in-Banner.jpg" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Theophil Dio</h1>
-<h3 align="center">Front-end Web Developer from Bangladesh</h3>
+<h3 align="center">Front-end Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theophildio&label=Profile%20views&color=0e75b6&style=flat" alt="theophildio" /> </p>
 
