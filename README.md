@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on MERN Stack Development [Cordless Tools Terminal](https://cordless-tools-terminal.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/theophildio](https://github.com/theophildio)
+- 👨‍💻 All of my projects are available at [https://github.com/theophildio?tab=repositories](https://github.com/theophildio)
 
 - 📫 How to reach me **dev.theophildio@gmail.com**
 
