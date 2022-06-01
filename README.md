@@ -1,3 +1,5 @@
+<img src="https://github.com/theophildio/theophildio/blob/main/Theophil-Dio-in-Banner.jpg" alt="Banner" />
+
 <h1 align="center">Hi 👋, I'm Theophil Dio</h1>
 <h3 align="center">Front-end Web Developer from Bangladesh</h3>
 
